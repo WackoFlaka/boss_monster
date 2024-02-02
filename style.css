@@ -1,0 +1,30 @@
+
+
+.boss-card{
+    height: 45vh;
+    text-align: center;   
+    color: rgb(219, 1, 1);
+}
+
+.boss{
+    user-select: none;
+}
+
+.progress-bar {
+    width: 100%;
+}
+
+#hero-1 {
+    display: none;
+}
+
+#hero-2 {
+    display: none;
+}
+
+.first-map {
+    background-image: url(https://images.unsplash.com/photo-1473221326025-9183b464bb7e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhc3RsZSUyMGxhbmRzY2FwZXxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    background-position: center bottom;
+    
+}
